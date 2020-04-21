@@ -51,7 +51,7 @@ img {
 /*header*/
 
 .site-header {
-    background-image: url(/img/large-beans-cup-banner.webp);
+    background-image: url(../img/large-beans-cup-banner.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
